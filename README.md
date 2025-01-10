@@ -1,9 +1,11 @@
 ## Hi there 👋
-### I'm Pranj, a Software Engineering Graduate from the University of Alberta.
+I'm **Pranj**, a Software Engineering Graduate from the University of Alberta.
 
-### Through my past experiences, I've not only gained hands-on experience in full-stack development, but also thrived in collaborative environments, working effectively with diverse groups of people to achieve common goals.
+Through my past experiences, I've gained hands-on expertise in **full-stack development** and thrived in **collaborative environments**, working effectively with diverse teams to achieve common goals.
 
-### I am eager to apply my skills in new and challenging contexts and am interested in projects that leverage software to drive impactful, real-world applications.
+I am eager to apply my skills in **new and challenging contexts** and am passionate about projects that leverage **software to drive impactful, real-world applications**.
+
+Feel free to reach out to collaborate or connect!
 
 <!--
 **Ppatel122/Ppatel122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
