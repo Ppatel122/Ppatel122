@@ -1,9 +1,9 @@
 ## Hi there 👋
 I'm **Pranj**, a Software Engineering Graduate from the University of Alberta.
 
-Through my past experiences, I've gained hands-on expertise in **full-stack development** and thrived in **collaborative environments**, working effectively with diverse teams to achieve common goals.
+Through my past experiences, I've gained hands-on expertise in **full-stack development** and thrived in collaborative environments, working effectively with diverse teams to achieve common goals.
 
-I am eager to apply my skills in **new and challenging contexts** and am passionate about projects that leverage **software to drive impactful, real-world applications**.
+I am eager to apply my skills in new and challenging contexts and am passionate about projects that leverage software to drive impactful, real-world applications.
 
 Feel free to reach out to collaborate or connect!
 
